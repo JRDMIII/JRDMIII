@@ -1,7 +1,7 @@
 # 💫 Dami Olatunji:
 Hi! My name is Dami and I am a Computer Science student @ the University of Warwick. I have recently fallen in love with creating random projects and simulations, testing my problem solving skills by recreating other projects or simulations I see or creating new ones from scratch!
 
-🔭 I’m currently working on a procedural animation simulation<br>👯 I’m looking to collaborate on any ideas you have!<br>🤝 I’m looking for help with learning more about cybersecurity and how to get into the space<br>🌱 I’m currently learning cybersecurity and simulation development<br>💬 Ask me about any of my recent projects!
+🔭 I’m currently working on a Lagrangian fluid simulation<br>👯 I’m looking to collaborate on any ideas you have!<br>🤝 I’m looking for help with learning more about cybersecurity and how to get into the space<br>🌱 I’m currently learning cybersecurity and simulation development<br>💬 Ask me about any of my recent projects!
 
 
 ## 🌐 Socials:
